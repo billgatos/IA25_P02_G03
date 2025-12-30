@@ -11,13 +11,13 @@ Alunos:
 **Dataset:** 
 [Kaggle  - 120 Years of Olympic History: Athletes and Results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?resource=download)
 
-## 📖 Project Overview
+## Project Overview
 
 This project performs a comprehensive analysis of the Olympic Games dataset, applying Data Science and Machine Learning techniques to extract business value. The project is divided into four main notebooks.
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 To run these notebooks, the following Python libraries are required:
 
