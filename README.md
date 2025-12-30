@@ -1,4 +1,4 @@
-# 🏅 Olympic Games Data Mining Project (1896-2016)
+# Olympic Games Data Mining Project (1896-2016)
 
 **Course:** IA25 | **Group:** G03  
 Alunos:
@@ -29,9 +29,9 @@ To run these notebooks, the following Python libraries are required:
 
 ---
 
-## 📂 Project Solutions
+## Project Solutions
 
-### 1️⃣ Notebook EDA: EDA 
+### Notebook EDA: EDA 
 
 **Filename:** `IA25_P02_G03_EDA.ipynb`
 
@@ -45,7 +45,7 @@ Before diving into complex modeling, a comprehensive analysis of the dataset was
 * **Demographics:** Distribution analysis of physical attributes (Age, Height, Weight) to establish a baseline for "typical" athletes versus outliers.
 * **Correlations:** Heatmaps used to identify strong relationships between physical traits (e.g., Height vs. Weight) and their potential influence on winning medals.
 
-### 2️⃣ Notebook 1: Automatic Classification
+### Notebook 1: Automatic Classification
 
 **Filename:** `IA25_P02_G03_Classificacao_NBK1.ipynb`
 
@@ -67,7 +67,7 @@ Before diving into complex modeling, a comprehensive analysis of the dataset was
     * **Random Forest:** Implemented to capture non-linear relationships between physique and success.
 * **Optimization:** Hyperparameter tuning (GridSearchCV) was applied to the Random Forest model to optimize the number of trees and maximum depth.
 
-### 3️⃣ Notebook 2: Clustering
+### Notebook 2: Clustering
 
 **Filename:** `IA25_P02_G03_Clustering_NBK2.ipynb`
 
@@ -92,7 +92,7 @@ Before diving into complex modeling, a comprehensive analysis of the dataset was
     * **Cluster 2:** Tall/Heavy (Basketball, Volleyball).
     * **Cluster 3:** Heavy/Strong (Wrestling, Judo, Throwing events).
 
-### 4️⃣ Notebook 3: Association Rules
+### Notebook 3: Association Rules
 
 **Filename:** `IA25_P02_G03_Association_Nbk3.ipynb`
 
