@@ -8,8 +8,8 @@ Alunos:
   * Rodrigo Moura     -- a27995
   * Mário Júnior      -- a27989
 
-**Dataset:** 120 Years of Olympic History: Athletes and Results
-https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?resource=download
+**Dataset:** 
+[Kaggle  - 120 Years of Olympic History: Athletes and Results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results?resource=download)
 
 ## 📖 Project Overview
 
