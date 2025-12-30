@@ -26,7 +26,6 @@ To run these notebooks, the following Python libraries are required:
 * `scikit-learn` (Classification & Clustering)
 * `mlxtend` (Association Rules)
 
-```
 
 ---
 
