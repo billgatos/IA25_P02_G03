@@ -57,7 +57,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn mlxtend
 * **Cluster 2:** Tall/Heavy (Basketball).
 * **Cluster 3:** Heavy/Strong (Wrestling/Judo).
 
-### 3️⃣ Notebook 3: Association Rules
+### 4️⃣ Notebook 3: Association Rules
 
 **Filename:** `IA25_P02_G03_Association_Nbk3.ipynb`
 
